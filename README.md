@@ -5,7 +5,7 @@
 <html>
   <head>
     <style>
-      p {
+      * {
         border-radius: 50px;
       }
     </style>
