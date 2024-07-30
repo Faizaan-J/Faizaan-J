@@ -2,17 +2,6 @@
 > [!IMPORTANT]
 > I am not Markiplier.
 
-<html>
-  <head>
-    <style>
-      * {
-        border-radius: 50px;
-      }
-    </style>
-  </head>
-<body>
-  <p align="center">
-<img src="https://avatars.githubusercontent.com/u/125227430" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d71469b3-b943-46ec-95a4-3a5c550dbc29" />
 </p>
-</body>
-</html>
