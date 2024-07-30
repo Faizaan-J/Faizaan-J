@@ -7,7 +7,7 @@
 </p>
 
 <style>
-  img {
+  p {
     border-radius: 50px;
   }
 </style>
