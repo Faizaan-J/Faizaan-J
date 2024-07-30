@@ -2,12 +2,17 @@
 > [!IMPORTANT]
 > I am not Markiplier.
 
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/125227430"></img>
+<html>
+  <head>
+    <style>
+      p {
+        border-radius: 50px;
+      }
+    </style>
+  </head>
+<body>
+  <p align="center">
+<img src="https://avatars.githubusercontent.com/u/125227430" />
 </p>
-
-<style>
-  p {
-    border-radius: 50px;
-  }
-</style>
+</body>
+</html>
