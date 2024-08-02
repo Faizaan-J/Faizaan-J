@@ -3,5 +3,5 @@
 > I am not Markiplier.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d71469b3-b943-46ec-95a4-3a5c550dbc29" />
+  <img src="https://github.com/user-attachments/assets/c1df8f02-df24-4f57-97da-d79051f2e5ea" />
 </p>
