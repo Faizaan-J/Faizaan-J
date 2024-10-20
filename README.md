@@ -1,4 +1,4 @@
-# Hi
+# Hi 👋🏻.
 I'm pretty sure half of my commits are me trying to setup readme files.
 
 # Languages I know
