@@ -1,5 +1,5 @@
 # Hi
-<sub>I think half of my commits are me trying to setup readme files.</sub>
+<small>I think half of my commits are me trying to setup readme files.</small>
 
 # Languages I know
 <p align="center">
