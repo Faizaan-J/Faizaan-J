@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const graduationYear = 2028;
+const graduationYear = 2029;
 
 function getSchoolYear() {
   const now = new Date();
