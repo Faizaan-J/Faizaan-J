@@ -3,7 +3,7 @@
 # হ্যালো👋
 ---
 
-I'm Faizaan, a freshman at Stuyvesant High School.
+I'm Faizaan, a Freshman at Stuyvesant High School.
 
 I currently specialize in [robotics programming](https://github.com/StuyPulse/StuyPlus-2026), [system automation/abstraction and tooling](https://github.com/Faizaan-J/mine-strapper), and a bit of [game development](https://github.com/FarhanJ2/the-road-not-taken) and front-end development on the side.
  
