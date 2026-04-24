@@ -10,10 +10,16 @@ I currently specialize in [robotics programming](https://github.com/StuyPulse/St
 I'm currently focusing my work at the award winning FRC Team 694, [StuyPulse](https://stuypulse.com).
 
 <a href="https://stuypulse.com">
-  <img src="./assets/StuyPulseLogo.png" alt="StuyPulse logo. Link leads to StuyPulse's website." width="50">
+  <img src="./assets/StuyPulseLogo.png" alt="StuyPulse logo. Link leads to StuyPulse's website." width="35">
 </a>
 <a href="https://github.com/StuyPulse">
-  <img src="./assets/GithubLogo.png" alt="Github logo. Links lead to StuyPulse's organization on Github." width="50">
+  <img src="./assets/GithubLogo.png" alt="Github logo. Links lead to StuyPulse's organization on Github." width="35">
+</a>
+<a href="https://www.thebluealliance.com/team/694">
+  <img src="./assets/TheBlueAllianceLogo.png" alt="TheBlueAlliance logo. Links lead to StuyPulse's TheBlueAlliance page." width="35">
+</a>
+<a href="https://www.statbotics.io/team/694">
+  <img src="./assets/StatboticsLogo.png" alt="Statbotics logo. Links lead to StuyPulse's Statbotics page." width="35">
 </a>
 
 ## Technologies
